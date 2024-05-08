@@ -48,7 +48,7 @@
         "author": "a...a",
         "recomendation": true,
         "stars": 1.0,
-        "content": "The printer is small and neat. The installation for Mac is very efficient. It works without any problems, the printout is very good and clear. The scanning program is automatically installed on the computer and the scan quality is very good. A great printer for your home office. I recommend.",
+        "content": "The printer is small and neat. The installation for Mac is very efficient. It works without any problems, the printout is very good and clear. The scanning program is automatically installed on the computer and the scan quality is very good. A great printer for a home office. I recommend.",
         "pros": [],
         "cons": [],
         "helpful": 4,
@@ -192,7 +192,7 @@
         "author": "m...s",
         "recomendation": null,
         "stars": 0.6,
-        "content": "The printer is nice because it is small and functional, but the ink was enough for a few color sheets of paper, and the inks are not the cheapest, so that's a minus.",
+        "content": "The printer is nice because it is small and functional, but the ink was enough for several colored sheets of paper, and the inks are not the cheapest, so that's a minus.",
         "pros": [
             "quality of prints",
             "print speed"
@@ -344,6 +344,37 @@
         "purchase_date": "2022-01-29 14:01:35"
     },
     {
+        "opinion_id": "18628667",
+        "author": "d...n",
+        "recomendation": true,
+        "stars": 1.0,
+        "content": "Super small, portable and quiet",
+        "pros": [
+            "quality of prints",
+            "relatively cheap",
+            "print speed",
+            "efficiency"
+        ],
+        "cons": [],
+        "helpful": 0,
+        "unhelpful": 0,
+        "publish_date": "2024-05-07 09:43:46",
+        "purchase_date": "2024-04-29 12:20:29"
+    },
+    {
+        "opinion_id": "16448664",
+        "author": "m...k",
+        "recomendation": false,
+        "stars": 0.1,
+        "content": "The printer I wanted to buy. But it's disabled. Once the toners are inserted, it cannot be returned. I have to take it in for repairs. Shame on Media Mart!!!",
+        "pros": [],
+        "cons": [],
+        "helpful": 0,
+        "unhelpful": 0,
+        "publish_date": "2022-08-23 22:33:38",
+        "purchase_date": "2022-08-05 12:30:51"
+    },
+    {
         "opinion_id": "17202270",
         "author": "j...i",
         "recomendation": null,
@@ -360,19 +391,6 @@
         "unhelpful": 0,
         "publish_date": "2023-02-28 11:37:03",
         "purchase_date": "2022-04-03 18:48:52"
-    },
-    {
-        "opinion_id": "16448664",
-        "author": "m...k",
-        "recomendation": false,
-        "stars": 0.1,
-        "content": "The printer I wanted to buy. But it's not working. Once the toners are inserted, it cannot be returned. I have to take it in for repairs. Shame on Media Mart!!!",
-        "pros": [],
-        "cons": [],
-        "helpful": 0,
-        "unhelpful": 0,
-        "publish_date": "2022-08-23 22:33:38",
-        "purchase_date": "2022-08-05 12:30:51"
     },
     {
         "opinion_id": "16664177",
@@ -397,7 +415,7 @@
         "author": "g...1",
         "recomendation": true,
         "stars": 1.0,
-        "content": "It's ok for this money.",
+        "content": "It's ok for this kind of money.",
         "pros": [],
         "cons": [],
         "helpful": 0,
@@ -634,24 +652,6 @@
         "purchase_date": "2022-03-12 16:34:40"
     },
     {
-        "opinion_id": "15153414",
-        "author": "w...8",
-        "recomendation": true,
-        "stars": 1.0,
-        "content": "Git",
-        "pros": [],
-        "cons": [
-            "quality of prints",
-            "relatively cheap",
-            "print speed",
-            "efficiency"
-        ],
-        "helpful": 0,
-        "unhelpful": 5,
-        "publish_date": "2021-11-02 11:30:28",
-        "purchase_date": "2021-10-27 17:16:31"
-    },
-    {
         "opinion_id": "15128430",
         "author": "1ewka1212",
         "recomendation": false,
@@ -669,6 +669,24 @@
         "unhelpful": 5,
         "publish_date": "2021-10-26 19:32:09",
         "purchase_date": null
+    },
+    {
+        "opinion_id": "15153414",
+        "author": "w...8",
+        "recomendation": true,
+        "stars": 1.0,
+        "content": "Git",
+        "pros": [],
+        "cons": [
+            "quality of prints",
+            "relatively cheap",
+            "print speed",
+            "efficiency"
+        ],
+        "helpful": 0,
+        "unhelpful": 5,
+        "publish_date": "2021-11-02 11:30:28",
+        "purchase_date": "2021-10-27 17:16:31"
     },
     {
         "opinion_id": "14878601",
@@ -719,7 +737,7 @@
         "author": "Użytkownik Ceneo",
         "recomendation": false,
         "stars": 0.1,
-        "content": "The quality of workmanship is poor, in fact it is poor, it is impossible to configure it from the very beginning of the purchase, once it starts printing via WiFi it keeps disconnecting, in order to install it you have to go through a difficult registration process, press a lot of buttons and there is no guarantee that it will be successful, it doesn't find it through the cable or it fits properly. It consumes ink quickly, the first of which I used to print a million instructions. I honestly do not recommend this purchase.",
+        "content": "The quality of workmanship is poor, in fact it is poor, it is impossible to configure it from the very beginning of the purchase, when it starts printing via WiFi it keeps disconnecting, in order to install it you have to go through a difficult registration process, press a lot of buttons and there is no guarantee that it will be successful, it doesn't find it through the cable or it fits properly. It consumes ink quickly, the first of which I used to print a million instructions. I honestly do not recommend this purchase.",
         "pros": [
             "quality of prints",
             "relatively cheap"
@@ -738,7 +756,7 @@
         "author": "Użytkownik Ceneo",
         "recomendation": false,
         "stars": 0.2,
-        "content": "It may seem small, but for printing you need to unfold the paper feeder and tray, so it takes up a standard surface. I use it to print over WiFi from several devices - regular problems with connection and printing. For unknown reasons, it stops printing and each time I struggle with it half the evening to restore the connection. I honestly advise against it",
+        "content": "It may seem small, but for printing you have to unfold the paper feeder and tray, so it takes up a standard surface. I use it to print over WiFi from several devices - regular problems with connection and printing. For unknown reasons, it stops printing and each time I struggle with it half the evening to restore the connection. I honestly advise against it",
         "pros": [],
         "cons": [
             "quality of prints",
